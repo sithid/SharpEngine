@@ -15,5 +15,25 @@ namespace MudEngine.Models
             Name = name;
             Description = description;
         }
+
+        public virtual bool AddItem(GameObject item)
+        {
+            if (item != null)
+            {
+                Contents[item.Id] = item;
+                return true;
+            }
+            return false;
+        }
+
+        public virtual GameObject RemoveItem(string itemId)
+        {
+            if (Contents.TryGetValue(itemId, out GameObject item))
+            {
+                Contents.Remove(itemId);
+                return item;
+            }
+            return null;
+        }
     }
 } 
