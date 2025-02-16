@@ -1,0 +1,5 @@
+D:\projects\SharpEngine\src\MudEngine.Console\obj\Debug\net7.0\MudEngine.Console.csproj.AssemblyReference.cache
+D:\projects\SharpEngine\src\MudEngine.Console\obj\Debug\net7.0\MudEngine.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\SharpEngine\src\MudEngine.Console\obj\Debug\net7.0\MudEngine.Console.AssemblyInfoInputs.cache
+D:\projects\SharpEngine\src\MudEngine.Console\obj\Debug\net7.0\MudEngine.Console.AssemblyInfo.cs
+D:\projects\SharpEngine\src\MudEngine.Console\obj\Debug\net7.0\MudEngine.Console.csproj.CoreCompileInputs.cache
